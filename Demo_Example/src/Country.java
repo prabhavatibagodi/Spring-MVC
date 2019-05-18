@@ -2,6 +2,8 @@
 public class Country {
 private String name;
 private int states;
+private String address;//new change
+
 public Country() 
 {
 System.out.println(this.getClass().getSimpleName());
