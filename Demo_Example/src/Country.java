@@ -4,6 +4,7 @@ private String name;
 private int states;
 private String address;//new change
 
+//some comments
 public Country() 
 {
 System.out.println(this.getClass().getSimpleName());
